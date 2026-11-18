@@ -1,7 +1,6 @@
 # Physics-based static rollover threshold of a tractor–semitrailer: multi-leaf versus air suspension
 
-<!-- After the first GitHub release is archived in Zenodo, replace XXXXXXX with the record number -->
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24329653.svg)](https://doi.org/10.5281/zenodo.24329653)
 
 Companion code and data of the article
 

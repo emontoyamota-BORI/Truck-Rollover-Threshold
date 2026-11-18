@@ -4,6 +4,7 @@ title: "Physics-based static rollover threshold of a tractor-semitrailer: multi-
 version: 1.0.0
 date-released: 2026-11-17
 license: MIT
+doi: 10.5281/zenodo.24329653
 authors:
   - family-names: Montoya
     given-names: Luis
