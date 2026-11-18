@@ -1,0 +1,175 @@
+{
+  "Name": "p22 eje delantero",
+  "Type": "Suspension",
+  "Template": "SolidBellcrankThreeLinkAxle",
+  "Spindle": {
+    "Mass": 60.0,
+    "COM": [
+      0,
+      1.02,
+      0
+    ],
+    "Inertia": [
+      0.27,
+      0.48,
+      0.27
+    ],
+    "Radius": 0.1,
+    "Width": 0.06
+  },
+  "Axle Tube": {
+    "Mass": 250.0,
+    "COM": [
+      0,
+      0,
+      0
+    ],
+    "Inertia": [
+      21.23,
+      8.12,
+      21.31
+    ],
+    "Radius": 0.0476
+  },
+  "Knuckle": {
+    "Mass": 60.0,
+    "COM": [
+      0,
+      0.935645569620253,
+      0
+    ],
+    "Inertia": [
+      1.0,
+      1.6,
+      1.0
+    ],
+    "Location Lower": [
+      0,
+      0.7348724416202531,
+      -0.1
+    ],
+    "Location Upper": [
+      0,
+      0.7198111026835442,
+      0.1
+    ],
+    "Location Tierod": [
+      -0.236,
+      0.6886075949367089,
+      0.153
+    ]
+  },
+  "Bellcrank": {
+    "Mass": 24.4,
+    "Inertia": [
+      0.05,
+      0.29,
+      0.3
+    ],
+    "Location Axle": [
+      -0.023,
+      0.0,
+      0.25
+    ],
+    "Location Tierod": [
+      -0.273,
+      0.192,
+      0.153
+    ]
+  },
+  "Draglink": {
+    "Mass": 10.3,
+    "Inertia": [
+      0.29,
+      0.67,
+      0.95
+    ],
+    "Location Steering": [
+      0.741,
+      -0.067,
+      0.089
+    ],
+    "Location Bellcrank": [
+      0.045,
+      0.406,
+      0.153
+    ]
+  },
+  "Triangular Link": {
+    "Mass": 50.0,
+    "Inertia": [
+      0.2,
+      0.2,
+      0.2
+    ],
+    "Location Chassis": [
+      0.871,
+      0.57,
+      0.165
+    ],
+    "Location Axle": [
+      0.125,
+      0.0,
+      0.26
+    ]
+  },
+  "Longitudinal Link": {
+    "Mass": 25.0,
+    "Inertia": [
+      0.05,
+      0.1,
+      0.1
+    ],
+    "Location Chassis": [
+      -1.138,
+      0.42,
+      0.115
+    ],
+    "Location Axle": [
+      -0.115,
+      0.550886075949367,
+      -0.09
+    ]
+  },
+  "Tierod": {
+    "Mass": 10.0,
+    "Inertia": [
+      0.05,
+      0.1,
+      0.105
+    ]
+  },
+  "Spring": {
+    "Location Chassis": [
+      0.0,
+      0.45,
+      0.585
+    ],
+    "Location Axle": [
+      0.0,
+      0.45,
+      0.09
+    ],
+    "Free Length": 0.495,
+    "Spring Coefficient": 332856.75105267507,
+    "Preload": 32309.235,
+    "Minimum Length": 0.33499999999999996,
+    "Maximum Length": 0.635
+  },
+  "Shock": {
+    "Location Chassis": [
+      0.05,
+      0.45,
+      0.585
+    ],
+    "Location Axle": [
+      0.05,
+      0.45,
+      0.09
+    ],
+    "Damping Coefficient": 16554.93664735677
+  },
+  "Axle": {
+    "Inertia": 0.4
+  }
+}

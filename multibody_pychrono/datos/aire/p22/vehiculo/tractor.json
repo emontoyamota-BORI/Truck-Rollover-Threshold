@@ -1,0 +1,63 @@
+{
+  "Name": "p22 tractor 4x2",
+  "Type": "Vehicle",
+  "Template": "WheeledVehicle",
+  "Chassis": {
+    "Input File": "p22/vehiculo/chasis.json"
+  },
+  "Axles": [
+    {
+      "Suspension Input File": "p22/vehiculo/eje_delantero.json",
+      "Suspension Location": [
+        0.0,
+        0,
+        0
+      ],
+      "Steering Index": 0,
+      "Left Wheel Input File": "p22/vehiculo/rin.json",
+      "Right Wheel Input File": "p22/vehiculo/rin.json",
+      "Left Brake Input File": "p22/vehiculo/freno.json",
+      "Right Brake Input File": "p22/vehiculo/freno.json"
+    },
+    {
+      "Suspension Input File": "p22/vehiculo/eje_motriz.json",
+      "Suspension Location": [
+        -3.8,
+        0,
+        0
+      ],
+      "Wheel Separation": 0.33,
+      "Left Inside Wheel Input File": "p22/vehiculo/rin.json",
+      "Right Inside Wheel Input File": "p22/vehiculo/rin.json",
+      "Left Outside Wheel Input File": "p22/vehiculo/rin.json",
+      "Right Outside Wheel Input File": "p22/vehiculo/rin.json",
+      "Left Brake Input File": "p22/vehiculo/freno.json",
+      "Right Brake Input File": "p22/vehiculo/freno.json"
+    }
+  ],
+  "Steering Subsystems": [
+    {
+      "Input File": "p22/vehiculo/direccion.json",
+      "Location": [
+        0,
+        0,
+        0
+      ],
+      "Orientation": [
+        1,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  "Wheelbase": 3.8,
+  "Minimum Turning Radius": 7.5,
+  "Maximum Steering Angle (deg)": 40.0,
+  "Driveline": {
+    "Input File": "p22/vehiculo/transmision_eje.json",
+    "Suspension Indexes": [
+      1
+    ]
+  }
+}

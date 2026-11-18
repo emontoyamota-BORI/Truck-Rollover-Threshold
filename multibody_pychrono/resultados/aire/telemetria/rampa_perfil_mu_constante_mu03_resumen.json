@@ -1,0 +1,39 @@
+{
+  "suspension": "aire",
+  "corrida": "rampa_perfil_mu_constante_mu03",
+  "caso": {
+    "modo": "perfil_mu_constante",
+    "v_kmh": 0.0,
+    "mu": 0.3,
+    "video": true
+  },
+  "fin": "VUELCO",
+  "dz_inicial_m": 0.01,
+  "vuelco": true,
+  "s_final_m": 175.0,
+  "v_final_kmh": 84.1812199032323,
+  "despegue_por_eje": [
+    {
+      "t": 54.4489999999638,
+      "s": 172.0,
+      "v_kmh": 84.25158110724139
+    },
+    {
+      "t": 54.29899999996415,
+      "s": 169.0,
+      "v_kmh": 84.38428381080722
+    },
+    {
+      "t": 52.9489999999673,
+      "s": 138.0,
+      "v_kmh": 84.36440945805326
+    },
+    {
+      "t": 52.748999999967765,
+      "s": 133.0,
+      "v_kmh": 84.20631130707122
+    }
+  ],
+  "fotogramas": 99,
+  "carpeta_fotogramas": "C:\\Users\\byngo\\p22_susp_videos\\aire\\rampa_perfil_mu_constante_mu03"
+}

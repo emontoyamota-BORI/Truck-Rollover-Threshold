@@ -1,0 +1,59 @@
+{
+  "suspension": "aire",
+  "estatica": [
+    {
+      "eje": 1,
+      "Fz_izq_kN": 36.42063781930887,
+      "Fz_der_kN": 36.40226193053099,
+      "porcentaje": 21.144774035459207,
+      "p22_pct": 21.0
+    },
+    {
+      "eje": 2,
+      "Fz_izq_kN": 51.50401661391271,
+      "Fz_der_kN": 51.504992548034636,
+      "porcentaje": 29.90957830336485,
+      "p22_pct": 30.0
+    },
+    {
+      "eje": 3,
+      "Fz_izq_kN": 42.811953935569825,
+      "Fz_der_kN": 42.81422291035112,
+      "porcentaje": 24.86231895663079,
+      "p22_pct": 25.0
+    },
+    {
+      "eje": 4,
+      "Fz_izq_kN": 41.4705013538565,
+      "Fz_der_kN": 41.472822086366975,
+      "porcentaje": 24.08332870454515,
+      "p22_pct": 24.0
+    }
+  ],
+  "peso_medido_t": 35.1071772882703,
+  "despegue_ay_g_por_eje": [
+    0.26230778020523055,
+    0.2567191529403862,
+    0.21069659610573713,
+    0.20523414313960664
+  ],
+  "SRT_primer_despegue_g": 0.20523414313960664,
+  "ay_ultimo_despegue_g": 0.26230778020523055,
+  "ay_max_alcanzado_g": 0.26230778020523055,
+  "orden_despegue": [
+    4,
+    3,
+    2,
+    1
+  ],
+  "fin": "despegaron los 4 ejes",
+  "gradiente_balanceo_tractor_deg_g": 25.88607078857018,
+  "gradiente_balanceo_remolque_deg_g": 25.889496696510808,
+  "gradiente_balanceo_suspension_por_eje_deg_g": [
+    22.41033158697338,
+    22.31853996628604,
+    19.282486596889026,
+    19.302344690755646
+  ],
+  "SSF_aprox": 0.41573705099926145
+}

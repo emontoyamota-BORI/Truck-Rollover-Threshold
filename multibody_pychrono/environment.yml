@@ -1,0 +1,17 @@
+# Conda environment for Model C (PyChrono).
+# Replace this file with the exact environment used, exported with:
+#     conda env export -n chrono --from-history > environment.yml
+name: chrono
+channels:
+  - projectchrono
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pychrono
+  - numpy
+  - matplotlib
+  - pip
+  - pip:
+      - imageio
+      - imageio-ffmpeg
+      - openpyxl

@@ -1,0 +1,39 @@
+{
+  "suspension": "multihoja",
+  "corrida": "rampa_50kmh_mu08",
+  "caso": {
+    "modo": "constante",
+    "v_kmh": 50.0,
+    "mu": 0.8,
+    "video": true
+  },
+  "fin": "VUELCO",
+  "dz_inicial_m": 0.01,
+  "vuelco": true,
+  "s_final_m": 414.0,
+  "v_final_kmh": 49.170695533119286,
+  "despegue_por_eje": [
+    {
+      "t": 68.94899999996517,
+      "s": 411.0,
+      "v_kmh": 49.30244888959148
+    },
+    {
+      "t": 68.44899999996278,
+      "s": 404.0,
+      "v_kmh": 49.74167378833319
+    },
+    {
+      "t": 66.44899999995323,
+      "s": 376.0,
+      "v_kmh": 50.09642491618555
+    },
+    {
+      "t": 66.39899999995299,
+      "s": 375.0,
+      "v_kmh": 50.1002761818108
+    }
+  ],
+  "fotogramas": 322,
+  "carpeta_fotogramas": "C:\\Users\\byngo\\p22_susp_videos\\multihoja\\rampa_50kmh_mu08"
+}

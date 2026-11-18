@@ -1,0 +1,43 @@
+{
+  "Name": "p22 semirremolque 2 ejes",
+  "Type": "Trailer",
+  "Template": "WheeledTrailer",
+  "Chassis": {
+    "Input File": "p22/remolque/chasis.json"
+  },
+  "Connector": {
+    "Input File": "p22/remolque/quinta_rueda.json"
+  },
+  "Axles": [
+    {
+      "Suspension Input File": "p22/remolque/eje_remolque_1.json",
+      "Suspension Location": [
+        -9.545,
+        0,
+        -0.02777909674599316
+      ],
+      "Wheel Separation": 0.33,
+      "Left Inside Wheel Input File": "p22/remolque/rin.json",
+      "Right Inside Wheel Input File": "p22/remolque/rin.json",
+      "Left Outside Wheel Input File": "p22/remolque/rin.json",
+      "Right Outside Wheel Input File": "p22/remolque/rin.json",
+      "Left Brake Input File": "p22/remolque/freno.json",
+      "Right Brake Input File": "p22/remolque/freno.json"
+    },
+    {
+      "Suspension Input File": "p22/remolque/eje_remolque_2.json",
+      "Suspension Location": [
+        -10.855,
+        0,
+        -0.02777909674599316
+      ],
+      "Wheel Separation": 0.33,
+      "Left Inside Wheel Input File": "p22/remolque/rin.json",
+      "Right Inside Wheel Input File": "p22/remolque/rin.json",
+      "Left Outside Wheel Input File": "p22/remolque/rin.json",
+      "Right Outside Wheel Input File": "p22/remolque/rin.json",
+      "Left Brake Input File": "p22/remolque/freno.json",
+      "Right Brake Input File": "p22/remolque/freno.json"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "Name": "TMeasy 295_80R22.5_tras",
+  "Type": "Tire",
+  "Template": "TMeasyTire",
+  "Design": {
+    "Unloaded Radius [m]": 0.5217499999999999,
+    "Mass [kg]": 65.0,
+    "Inertia [kg.m2]": [
+      6.221872447916664,
+      11.500974062499997,
+      6.221872447916664
+    ],
+    "Width [m]": 0.295,
+    "Rim Radius [m]": 0.28575,
+    "Roundness of Cross Section": 0.1
+  },
+  "Coefficient of Friction": 0.8,
+  "Rolling Resistance Coefficient": 0.008,
+  "Parameters": {
+    "Vertical": {
+      "Nominal Vertical Force [N]": 15450.75,
+      "Maximum Vertical Force [N]": 54077.625,
+      "Vertical Tire Stiffness [N/m]": 818365.9957627119,
+      "Tire Vertical Damping [Ns/m]": 7293.407278122912
+    },
+    "Longitudinal": {
+      "Initial Slopes dFx/dsx [N]": [
+        274658.71229999996,
+        449001.88515
+      ],
+      "Maximum Fx Load [N]": [
+        13900.267237499998,
+        24026.225265
+      ],
+      "Sliding Fx Load [N]": [
+        7135.6198725,
+        13086.476235
+      ],
+      "Slip sx at Maximum Fx": [
+        0.10811,
+        0.12389
+      ],
+      "Slip sx where sliding begins": [
+        0.66667,
+        0.66667
+      ]
+    },
+    "Lateral": {
+      "Initial Slopes dFy/dsy [N]": [
+        114355.635975,
+        211690.72575
+      ],
+      "Maximum Fy Load [N]": [
+        11723.41107,
+        22443.14142
+      ],
+      "Sliding Fy Load [N]": [
+        10549.15407,
+        20184.550785000003
+      ],
+      "Slip sy at Maximum Fy": [
+        0.33167,
+        0.33216
+      ],
+      "Slip sy where sliding begins": [
+        1.0296,
+        1.0296
+      ]
+    },
+    "Aligning": {
+      "Normalized Trail at Zero Slip sy": [
+        0.178,
+        0.19
+      ],
+      "Slip sy where Trail Changes Sign": [
+        0.36484,
+        0.36538
+      ],
+      "Slip sy where Trail Tends to Zero": [
+        1.0296,
+        1.0296
+      ]
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "suspension": "aire",
+  "corrida": "rampa_47kmh_mu08",
+  "caso": {
+    "modo": "constante",
+    "v_kmh": 47.0,
+    "mu": 0.8,
+    "video": false
+  },
+  "fin": "VUELCO",
+  "dz_inicial_m": 0.03,
+  "vuelco": true,
+  "s_final_m": 424.0,
+  "v_final_kmh": 46.37024203675758,
+  "despegue_por_eje": [
+    {
+      "t": 73.54899999998713,
+      "s": 423.0,
+      "v_kmh": 46.43108958025426
+    },
+    {
+      "t": 73.54899999998713,
+      "s": 423.0,
+      "v_kmh": 46.43108958025426
+    },
+    {
+      "t": 70.19899999997114,
+      "s": 379.0,
+      "v_kmh": 47.08340078839739
+    },
+    {
+      "t": 69.69899999996875,
+      "s": 372.0,
+      "v_kmh": 47.076493697363595
+    }
+  ],
+  "fotogramas": 0,
+  "carpeta_fotogramas": null
+}

@@ -1,0 +1,35 @@
+{
+  "Name": "p22 direccion",
+  "Type": "Steering",
+  "Template": "RotaryArm",
+  "Pitman Arm": {
+    "Mass": 1.605,
+    "Inertia": [
+      0.00638,
+      0.00756,
+      0.0015
+    ],
+    "Inertia Products": [
+      0,
+      0,
+      0
+    ],
+    "Radius": 0.02,
+    "Axis of Rotation": [
+      0,
+      0,
+      1
+    ],
+    "Point of Rotation": [
+      0.85,
+      -0.028,
+      0.166
+    ],
+    "Point to Draglink": [
+      0.741,
+      -0.217,
+      0.089
+    ],
+    "Maximum Angle (deg)": 40
+  }
+}

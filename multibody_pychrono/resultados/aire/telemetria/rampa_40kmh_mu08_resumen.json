@@ -1,0 +1,23 @@
+{
+  "suspension": "aire",
+  "corrida": "rampa_40kmh_mu08",
+  "caso": {
+    "modo": "constante",
+    "v_kmh": 40.0,
+    "mu": 0.8,
+    "video": true
+  },
+  "fin": "llegó a S_FIN",
+  "dz_inicial_m": 0.03,
+  "vuelco": false,
+  "s_final_m": 629.0,
+  "v_final_kmh": 40.18128501132606,
+  "despegue_por_eje": [
+    null,
+    null,
+    null,
+    null
+  ],
+  "fotogramas": 602,
+  "carpeta_fotogramas": "C:\\Users\\byngo\\p22_susp_videos\\aire\\rampa_40kmh_mu08"
+}

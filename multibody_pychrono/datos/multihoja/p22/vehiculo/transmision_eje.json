@@ -1,0 +1,6 @@
+{
+  "Name": "p22 driveline",
+  "Type": "Driveline",
+  "Template": "SimpleDrivelineXWD",
+  "Differential Max Bias": 2.0
+}

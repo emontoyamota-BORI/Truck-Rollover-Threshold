@@ -1,0 +1,94 @@
+{
+  "Name": "p22 tractor chasis",
+  "Type": "Chassis",
+  "Template": "RigidChassis",
+  "Components": [
+    {
+      "Centroidal Frame": {
+        "Location": [
+          -0.026040816326530315,
+          0,
+          0.6170045239436621
+        ],
+        "Orientation": [
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "Mass": 4900.0,
+      "Moments of Inertia": [
+        2283.9,
+        35402.8,
+        34802.6
+      ],
+      "Products of Inertia": [
+        0,
+        0,
+        0
+      ],
+      "Void": false
+    }
+  ],
+  "Driver Position": {
+    "Location": [
+      0.8,
+      0.5,
+      1.6
+    ],
+    "Orientation": [
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  "Rear Connector Location": [
+    -3.2,
+    0,
+    0.717004523943662
+  ],
+  "Visualization": {
+    "Primitives": [
+      {
+        "Type": "BOX",
+        "Location": [
+          0.6,
+          0,
+          1.4
+        ],
+        "Orientation": [
+          1,
+          0,
+          0,
+          0
+        ],
+        "Dimensions": [
+          2.2,
+          2.45,
+          2.6
+        ]
+      },
+      {
+        "Type": "BOX",
+        "Location": [
+          -1.9,
+          0,
+          0.45
+        ],
+        "Orientation": [
+          1,
+          0,
+          0,
+          0
+        ],
+        "Dimensions": [
+          5.2,
+          0.9,
+          0.3
+        ]
+      }
+    ]
+  }
+}

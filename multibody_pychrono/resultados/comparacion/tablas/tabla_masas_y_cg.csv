@@ -1,0 +1,13 @@
+﻿concepto,valor
+masa total [kg],34700
+carga perno rey [kg],10897
+tractor masa suspendida [kg],4900
+tractor h_cg suspendido [m],1.1
+tractor x_cg suspendido desde eje 1 [m],-0.026
+remolque masa suspendida [kg],26100
+remolque h_cg suspendido [m],2.725
+remolque x_cg suspendido desde perno [m],-5.933
+h_cg combinación [m],2.255
+radio cargado llanta delantera [m],0.483
+radio cargado llanta remolque [m],0.4552
+quinta rueda x [m] / h [m],-3.2 / 1.2

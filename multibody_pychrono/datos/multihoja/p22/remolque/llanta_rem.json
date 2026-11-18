@@ -1,0 +1,85 @@
+{
+  "Name": "TMeasy 275_70R22.5",
+  "Type": "Tire",
+  "Template": "TMeasyTire",
+  "Design": {
+    "Unloaded Radius [m]": 0.47825,
+    "Mass [kg]": 55.0,
+    "Inertia [kg.m2]": [
+      4.614286302083333,
+      8.5353434375,
+      4.614286302083333
+    ],
+    "Width [m]": 0.275,
+    "Rim Radius [m]": 0.28575,
+    "Roundness of Cross Section": 0.1
+  },
+  "Coefficient of Friction": 0.8,
+  "Rolling Resistance Coefficient": 0.008,
+  "Parameters": {
+    "Vertical": {
+      "Nominal Vertical Force [N]": 14224.5,
+      "Maximum Vertical Force [N]": 49785.75,
+      "Vertical Tire Stiffness [N/m]": 923668.8311688311,
+      "Tire Vertical Damping [Ns/m]": 7127.537142259289
+    },
+    "Longitudinal": {
+      "Initial Slopes dFx/dsx [N]": [
+        252860.4018,
+        413366.8149
+      ],
+      "Maximum Fx Load [N]": [
+        12797.071425,
+        22119.38199
+      ],
+      "Sliding Fx Load [N]": [
+        6569.300835,
+        12047.86701
+      ],
+      "Slip sx at Maximum Fx": [
+        0.10811,
+        0.12389
+      ],
+      "Slip sx where sliding begins": [
+        0.66667,
+        0.66667
+      ]
+    },
+    "Lateral": {
+      "Initial Slopes dFy/dsy [N]": [
+        105279.79185,
+        194889.8745
+      ],
+      "Maximum Fy Load [N]": [
+        10792.98162,
+        20661.939720000002
+      ],
+      "Sliding Fy Load [N]": [
+        9711.91962,
+        18582.602310000002
+      ],
+      "Slip sy at Maximum Fy": [
+        0.33167,
+        0.33216
+      ],
+      "Slip sy where sliding begins": [
+        1.0296,
+        1.0296
+      ]
+    },
+    "Aligning": {
+      "Normalized Trail at Zero Slip sy": [
+        0.178,
+        0.19
+      ],
+      "Slip sy where Trail Changes Sign": [
+        0.36484,
+        0.36538
+      ],
+      "Slip sy where Trail Tends to Zero": [
+        1.0296,
+        1.0296
+      ]
+    }
+  }
+}

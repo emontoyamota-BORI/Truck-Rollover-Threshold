@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article below."
+title: "Physics-based static rollover threshold of a tractor-semitrailer: multi-leaf versus air suspension (code and data)"
+version: 1.0.0
+date-released: 2026-11-17
+license: MIT
+authors:
+  - family-names: Montoya
+    given-names: Luis
+    affiliation: "Universidad Autónoma de Nuevo León (UANL), Facultad de Ingeniería Mecánica y Eléctrica (FIME)"
+keywords:
+  - tractor-semitrailer
+  - rollover
+  - static rollover threshold
+  - roll stiffness
+  - safe curve speed
+  - multibody simulation
+preferred-citation:
+  type: article
+  title: "A Physics-Based Static Rollover Threshold with Measured Suspension Roll Stiffness for Safe Curve-Speed Estimation of a Tractor-Semitrailer: Multi-Leaf versus Air Suspension"
+  authors:
+    - family-names: Montoya
+      given-names: Luis
+    - family-names: Ibarra
+      given-names: Jesus
+    - family-names: Ramirez-Mendoza
+      given-names: Ricardo A.
+  notes: "Manuscript submitted for publication."

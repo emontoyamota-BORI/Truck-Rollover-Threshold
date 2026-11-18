@@ -1,0 +1,6 @@
+{
+  "Name": "freno",
+  "Type": "Brake",
+  "Template": "BrakeSimple",
+  "Maximum Torque": 15000
+}

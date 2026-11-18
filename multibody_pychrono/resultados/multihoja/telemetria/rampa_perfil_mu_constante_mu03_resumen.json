@@ -1,0 +1,31 @@
+{
+  "suspension": "multihoja",
+  "corrida": "rampa_perfil_mu_constante_mu03",
+  "caso": {
+    "modo": "perfil_mu_constante",
+    "v_kmh": 0.0,
+    "mu": 0.3,
+    "video": true
+  },
+  "fin": "VUELCO",
+  "dz_inicial_m": 0.03,
+  "vuelco": true,
+  "s_final_m": 203.0,
+  "v_final_kmh": 79.9077799673755,
+  "despegue_por_eje": [
+    null,
+    null,
+    {
+      "t": 53.34899999996637,
+      "s": 148.0,
+      "v_kmh": 84.31182110078574
+    },
+    {
+      "t": 53.748999999965434,
+      "s": 158.0,
+      "v_kmh": 84.13533814379547
+    }
+  ],
+  "fotogramas": 112,
+  "carpeta_fotogramas": "C:\\Users\\byngo\\p22_susp_videos\\multihoja\\rampa_perfil_mu_constante_mu03"
+}

@@ -1,0 +1,39 @@
+{
+  "suspension": "aire",
+  "corrida": "rampa_50kmh_mu08",
+  "caso": {
+    "modo": "constante",
+    "v_kmh": 50.0,
+    "mu": 0.8,
+    "video": true
+  },
+  "fin": "VUELCO",
+  "dz_inicial_m": 0.03,
+  "vuelco": true,
+  "s_final_m": 389.0,
+  "v_final_kmh": 49.38404414372958,
+  "despegue_por_eje": [
+    {
+      "t": 67.34899999995753,
+      "s": 389.0,
+      "v_kmh": 49.41305722627108
+    },
+    {
+      "t": 67.24899999995705,
+      "s": 387.0,
+      "v_kmh": 49.495566491003856
+    },
+    {
+      "t": 65.4989999999487,
+      "s": 363.0,
+      "v_kmh": 50.135589947478714
+    },
+    {
+      "t": 65.19899999994726,
+      "s": 359.0,
+      "v_kmh": 50.14457759437228
+    }
+  ],
+  "fotogramas": 304,
+  "carpeta_fotogramas": "C:\\Users\\byngo\\p22_susp_videos\\aire\\rampa_50kmh_mu08"
+}

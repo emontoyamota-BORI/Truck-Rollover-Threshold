@@ -1,0 +1,17 @@
+﻿suspension,corrida,fin,vuelco,s_final_m,v_final_kmh,LTR_p95_rampa,balanceo_remolque_max_deg,despegue_eje1_s_m,despegue_eje1_v_kmh,despegue_eje2_s_m,despegue_eje2_v_kmh,despegue_eje3_s_m,despegue_eje3_v_kmh,despegue_eje4_s_m,despegue_eje4_v_kmh
+multihoja,rampa_30kmh_mu08,llegó a S_FIN,False,630,30.165,0.1495,1.2621,,,,,,,,
+aire,rampa_30kmh_mu08,llegó a S_FIN,False,629,30.16,0.1545,1.3252,,,,,,,,
+multihoja,rampa_40kmh_mu08,llegó a S_FIN,False,629,40.191,0.43154,3.6438,,,,,,,,
+aire,rampa_40kmh_mu08,llegó a S_FIN,False,629,40.181,0.43783,3.6927,,,,,,,,
+multihoja,rampa_44kmh_mu08,llegó a S_FIN,False,629,44.164,0.57317,4.9979,,,,,,,,
+aire,rampa_44kmh_mu08,llegó a S_FIN,False,629,44.147,0.5755,4.9344,,,,,,,,
+multihoja,rampa_47kmh_mu08,llegó a S_FIN,False,629,47.105,0.69253,6.01,,,,,450,46.692,,
+aire,rampa_47kmh_mu08,VUELCO,True,424,46.37,0.77221,30.285,423,46.431,423,46.431,379,47.083,372,47.076
+multihoja,rampa_50kmh_mu08,VUELCO,True,414,49.171,0.89471,30.587,411,49.302,404,49.742,376,50.096,375,50.1
+aire,rampa_50kmh_mu08,VUELCO,True,389,49.384,0.74371,29.452,389,49.413,387,49.496,363,50.136,359,50.145
+multihoja,rampa_55kmh_mu08,VUELCO,True,379,54.133,0.83684,30.794,376,54.313,369,54.975,354,55.337,351,55.365
+aire,rampa_55kmh_mu08,VUELCO,True,370,54.489,0.73687,30.489,369,54.531,368,54.566,347,55.407,349,55.376
+multihoja,rampa_60kmh_mu08,VUELCO,True,364,59.477,0.8408,30.121,,,356,60.398,344,60.92,340,61.002
+aire,rampa_60kmh_mu08,VUELCO,True,359,59.718,0.76678,29.519,358,59.808,358,59.808,336,61.045,336,61.045
+multihoja,rampa_perfil_mu_constante_mu03,VUELCO,True,203,79.908,0.8132,31.204,,,,,148,84.312,158,84.135
+aire,rampa_perfil_mu_constante_mu03,VUELCO,True,175,84.181,0.9902,30.126,172,84.252,169,84.384,138,84.364,133,84.206

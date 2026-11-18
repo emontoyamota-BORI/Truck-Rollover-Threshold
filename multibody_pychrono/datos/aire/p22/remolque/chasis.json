@@ -1,0 +1,62 @@
+{
+  "Name": "p22 remolque chasis",
+  "Type": "ChassisRear",
+  "Template": "RigidChassisRear",
+  "Components": [
+    {
+      "Centroidal Frame": {
+        "Location": [
+          -5.932694061302682,
+          0,
+          2.2420045239436623
+        ],
+        "Orientation": [
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "Mass": 26100.0,
+      "Moments of Inertia": [
+        35275.95,
+        543952.5,
+        543804.25
+      ],
+      "Products of Inertia": [
+        0,
+        0,
+        0
+      ],
+      "Void": false
+    }
+  ],
+  "Front Connector Location": [
+    0,
+    0,
+    0.717004523943662
+  ],
+  "Visualization": {
+    "Primitives": [
+      {
+        "Type": "BOX",
+        "Location": [
+          -6.875,
+          0,
+          2.2420045239436623
+        ],
+        "Orientation": [
+          1,
+          0,
+          0,
+          0
+        ],
+        "Dimensions": [
+          15.75,
+          2.5,
+          3.45
+        ]
+      }
+    ]
+  }
+}
